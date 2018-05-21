@@ -1,0 +1,20 @@
+{
+  "name": "repofor/PhpDomParser",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Denis Tokarev",
+      "email": "tr.denis@gmail.com"
+    }
+  ],
+  "require": {
+      "sunra/php-simple-html-dom-parser": "1.5.2"
+	},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "repofor\\": "src/repofor/"
+    }
+  }
+}

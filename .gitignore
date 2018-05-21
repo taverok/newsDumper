@@ -1,0 +1,10 @@
+.idea
+*.log
+
+Thumbs.db
+.DS_Store
+
+/vendor
+composer.phar
+
+var/news.txt
